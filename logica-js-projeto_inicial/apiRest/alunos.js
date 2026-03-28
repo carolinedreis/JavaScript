@@ -1,0 +1,22 @@
+export const estudantes = [
+  { id: 1, nome: "Ana Souza", universidade: "USP", curso: "Enfermagem" },
+  { id: 2, nome: "Bruno Lima", universidade: "UNICAMP", curso: "Engenharia de Software" },
+  { id: 3, nome: "Carla Mendes", universidade: "UFRJ", curso: "Medicina" },
+  { id: 4, nome: "Daniel Rocha", universidade: "PUC-SP", curso: "Direito" },
+  { id: 5, nome: "Eduarda Alves", universidade: "UFMG", curso: "Psicologia" },
+  { id: 6, nome: "Felipe Costa", universidade: "UFSC", curso: "Ciência da Computação" },
+  { id: 7, nome: "Gabriela Martins", universidade: "UNESP", curso: "Arquitetura" },
+  { id: 8, nome: "Henrique Dias", universidade: "UFRGS", curso: "Administração" },
+  { id: 9, nome: "Isabela Fernandes", universidade: "PUC-RJ", curso: "Jornalismo" },
+  { id: 10, nome: "João Pedro", universidade: "UFBA", curso: "Odontologia" },
+  { id: 11, nome: "Karina Ribeiro", universidade: "USP", curso: "Farmácia" },
+  { id: 12, nome: "Lucas Nogueira", universidade: "UNICAMP", curso: "Física" },
+  { id: 13, nome: "Mariana Teixeira", universidade: "UFRJ", curso: "Nutrição" },
+  { id: 14, nome: "Nicolas Barros", universidade: "PUC-SP", curso: "Marketing" },
+  { id: 15, nome: "Olívia Cardoso", universidade: "UFPR", curso: "Biomedicina" },
+  { id: 16, nome: "Paulo Henrique", universidade: "UFPE", curso: "Engenharia Civil" },
+  { id: 17, nome: "Quezia Lopes", universidade: "UFG", curso: "Pedagogia" },
+  { id: 18, nome: "Rafael Batista", universidade: "UFES", curso: "Sistemas de Informação" },
+  { id: 19, nome: "Sabrina Freitas", universidade: "PUC-MG", curso: "Design" },
+  { id: 20, nome: "Thiago Moreira", universidade: "UFSCAR", curso: "Matemática" }
+];
